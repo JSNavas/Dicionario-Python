@@ -183,7 +183,7 @@ while menu == True:
                 opAgregar = True
 
             elif opcion == 's':
-                print "\n 'Ha salido de la agenda' \n"
+                print "\n 'Ha salido de la diccionario' \n"
                 opAgregar = False
                 menu = False
 
@@ -206,7 +206,7 @@ while menu == True:
             menu = True
 
         elif opcion == 's':
-            print "\n 'Ha salido de la agenda' \n"
+            print "\n 'Ha salido de la diccionario' \n"
             opAgregar = False
             menu = False
 
@@ -234,7 +234,7 @@ while menu == True:
                 opBuscar = True
 
             elif opcion == 's':
-                print "\n 'Ha salido de la agenda' \n"
+                print "\n 'Ha salido de la diccionario' \n"
                 opBuscar = False
                 menu = False
 
@@ -264,7 +264,7 @@ while menu == True:
                 opEliminar = True
 
             elif opcion == 's':
-                print "\n 'Ha salido de la agenda' \n"
+                print "\n 'Ha salido de la diccionario' \n"
                 opEliminar = False
                 menu = False
 
@@ -273,5 +273,5 @@ while menu == True:
                 menu = True
 
     if opMenu == "5":
-        print "\n 'Ha salido de la agenda' \n"
+        print "\n 'Ha salido de la diccionario' \n"
         break
